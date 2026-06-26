@@ -6,7 +6,7 @@ This repository is the planned official implementation of **TBIMH-ProtoFuse**, a
 
 > **Release status.** The manuscript is currently under peer review. To comply with institutional review, ethics, and journal policies, the full source code will be released after the paper is formally published. The current pre-publication repository is not yet a runnable code release; this README documents the exact reproduction interface that will be provided, including the expected directory layout, preprocessing scripts, training commands, evaluation protocol, and output files.
 
-![TBIMH-ProtoFuse framework](Figure/3.png)
+![TBIMH-ProtoFuse framework](assets/1.png)
 
 ## What This Project Does
 
