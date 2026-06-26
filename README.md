@@ -488,7 +488,3 @@ For questions about the paper or future code release, please contact:
 
 - Wenpeng Zhao: `wenpengzhao0412@163.com`
 - Weimin Zhou: `ndefy09073@ncu.edu.cn`
-
-## Disclaimer
-
-TBIMH-ProtoFuse is a research prototype for retrospective prognostic modeling. It is not a medical device and should not be used for clinical decision-making without prospective validation, regulatory review, and institution-specific workflow evaluation.
